@@ -5,4 +5,11 @@ body {
 
 h1 {
     color: aqua;
+    background: white;
+    text-align: center;
+}
+
+h2{
+    color:purple;
+    background: gold;
 }
