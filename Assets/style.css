@@ -1,22 +1,49 @@
 body {
     background: ivory;
+    cursor: not-allowed;
 }
 
 
 h1 {
     color: maroon;
     text-align: center;
+    font-family: Stencil Std, fantasy
 }
 
 h2{
     color:silver;
     text-align: center;
+    font-family: Stencil Std, fantasy
 }
 
 h3 {
     color: silver;
+    font-family: Brush Script MT, Brush Script Std, cursive;
 }
 
 #myContact {
     color: rgba(255, 217, 0, 0.72);
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+img {
+    border-radius:  100px;
+    width: 17%;
+    height: auto;
+}
+
+
+#top {
+    position: absolute;
+    bottom: 780px;
+    left: 6px;
+    font-size: 18px;
+}
+
+p {
+    font-family: cursive;
+}
+
+ul {
+    font-family: cursive;
 }
