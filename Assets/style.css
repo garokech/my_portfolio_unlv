@@ -1,15 +1,22 @@
 body {
-    background: grey;
+    background: ivory;
 }
 
 
 h1 {
-    color: aqua;
-    background: white;
+    color: maroon;
     text-align: center;
 }
 
 h2{
-    color:purple;
-    background: gold;
+    color:silver;
+    text-align: center;
+}
+
+h3 {
+    color: silver;
+}
+
+#myContact {
+    color: rgba(255, 217, 0, 0.72);
 }
